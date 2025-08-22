@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
+//this is a candy catch game
 void main()
 {
 	int i;
@@ -65,3 +66,4 @@ void main()
 	goto start;
 	getch();
 }
+
